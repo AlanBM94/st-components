@@ -3,7 +3,6 @@ module.exports = {
   addons: [
     "@storybook/addon-links",
     "@storybook/addon-essentials",
-    "@storybook/addon-interactions",
     {
       name: "@storybook/addon-postcss",
       options: {
@@ -13,5 +12,4 @@ module.exports = {
       },
     },
   ],
-  framework: "@storybook/react",
 };
