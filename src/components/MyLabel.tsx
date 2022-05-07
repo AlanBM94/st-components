@@ -27,7 +27,7 @@ export interface Props {
   backgroundColor: string;
 }
 
-// this is a test
+// this is a tests
 export const MyLabel = ({
   allCaps,
   color,
